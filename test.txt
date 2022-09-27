@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4A62-8EBB
+
+ Directory of C:\Users\Saurabh Gujjar\Desktop\github
+
+27-09-2022  16:52    <DIR>          .
+27-09-2022  16:52    <DIR>          ..
+27-09-2022  16:52                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  104,117,088,256 bytes free
